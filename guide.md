@@ -9,7 +9,7 @@ Les différentes section du projet
 ## develop
 
 1.Section develop
-Branche de développement pour intégrer les nouvelles fonctionnalités avant de les publier. Cette contient toutes contient toute les nouvelles fonctionnalité ajouté au projet
+Branche de développement pour intégrer les nouvelles fonctionnalités avant de les publier. Cette contient toutes contient toute les nouvelles fonctionnalité ajouté au projet, sur cette branche sera mis toutes les nouvelles fonctionnalité de la plateforme.
 
 ## feature-homepage
 2.Section feature-homepage : Branche pour la page d'accueil (présentation générale).
