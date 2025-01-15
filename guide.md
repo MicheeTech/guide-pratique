@@ -9,9 +9,10 @@ Les différentes section du projet
 ## develop
 
 1.Section develop
+ feature-contact
  feature-products-services
 Branche de développement pour intégrer les nouvelles fonctionnalités avant de les publier. Cette contient toutes contient toute les nouvelles fonctionnalité ajouté au projet, sur cette branche sera mis toutes les nouvelles fonctionnalité de la plateforme.
- main
+ 
 
 ## feature-homepage
 2.Section feature-homepage : Branche pour la page d'accueil (présentation générale).
@@ -19,7 +20,6 @@ Branche de développement pour intégrer les nouvelles fonctionnalités avant de
 ## feature-products-services
 3.Section feature-products-services : Branche pour les sections Produits et Services.
 
-feature-products-services
 ** Les servives informatique:
 Services d'infrastructure, Services de support technique; Services de sécurité; Services logiciels
 
@@ -33,9 +33,18 @@ Services d'infrastructure, Services de support technique; Services de sécurité
 -Onduleurs.
 -Casque & micro.
 
+feature-contact
+## feature-contact
+4.Section feature-contact : Branche pour la section Contact (formulaire et coordonnées).
+** Adress de l'entreprise:
+- Email: logicielinformatique2@gmail.com
+- Contact: 17772425/ 25657170
+- Bamako Coura près de la mairie
+
  main
 ## feature-contact
 4.Section feature-contact : Branche pour la section Contact (formulaire et coordonnées).
+
 
 ##
 La communication est un aspect crucial de notre entreprise. Nous utilisons plusieurs canaux pour interagir avec nos clients et partenaires :
